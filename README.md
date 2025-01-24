@@ -48,8 +48,10 @@ This project is licensed under the MIT License.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Render](https://render.com/)
 
-## Deployed Link
-
 ## Credit 
 
 CodeCourtAce & John Paul D'Aconti
+
+## Note
+
+We used stock footage due to copyright 😊
