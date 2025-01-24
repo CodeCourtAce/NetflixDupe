@@ -1,0 +1,458 @@
+{
+    "0": [
+        { 
+            "name": "Avengers Endgame",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "year": "2019",
+            "genre": {
+                "one": "Action",
+                "two": "Adventure",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "Black Widow",
+            "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "year": "2021",
+            "genre": {
+                "one": "Spy",
+                "two": "Action",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "La La Land",
+            "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+            "year": "2016",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Comedy"
+            }
+        },
+        { 
+            "name": "Little Women",
+            "description": "19th century Massachusetts. While the March sisters - Jo, Meg, Amy, and Beth - enter the threshold of womanhood, they go through many ups and downs in life and endeavor to make important decisions that can affect their future.",
+            "year": "2019",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Drama",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Luca",
+            "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+            "year": "2021",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Family",
+                "three": "Animation"
+            }
+        },
+        { 
+            "name": "Man of Steel",
+            "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+            "year": "2013",
+            "genre": {
+                "one": "Superhero",
+                "two": "Sci-Fi",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "Murder On The Orient Express",
+            "description": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+            "year": "2017",
+            "genre": {
+                "one": "Mystery",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "Shrek",
+            "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+            "year": "2001",
+            "genre": {
+                "one": "Animation",
+                "two": "Comedy",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "Signs",
+            "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
+            "year": "2002",
+            "genre": {
+                "one": "Horror",
+                "two": "Mystery",
+                "three": "Sci-Fi"
+            }
+        },
+        { 
+            "name": "Spiderman No Way Home",
+            "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a everything goes wrong, dangerous foes from other worlds start to appear.",
+            "year": "2021",
+            "genre": {
+                "one": "Superhero",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "Tenet",
+            "description": "Armed with only the word Tenet, and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+            "year": "2020",
+            "genre": {
+                "one": "Thriller",
+                "two": "Action",
+                "three": "Sci-Fi"
+            }
+        },
+        { 
+            "name": "The Count of Monte Cristo",
+            "description": "A young man, falsely imprisoned by his jealous friend, escapes and uses a hidden treasure to exact his revenge.",
+            "year": "2002",
+            "genre": {
+                "one": "Action",
+                "two": "Romance",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "The Dark Knight",
+            "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+            "year": "2008",
+            "genre": {
+                "one": "Action",
+                "two": "Thriller",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "The Greatest Showman",
+            "description": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+            "year": "2017",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Biography"
+            }
+        },
+        { 
+            "name": "The Princess Bride",
+            "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+            "year": "1987",
+            "genre": {
+                "one": "Adventure",
+                "two": "Comedy",
+                "three": "Romance"
+            }
+        }
+    ],
+    "1": [
+        { 
+            "name": "Avengers Endgame",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "year": "2019",
+            "genre": {
+                "one": "Action",
+                "two": "Adventure",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "Spiderman No Way Home",
+            "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When everything goes wrong, dangerous foes from other worlds start to appear.",
+            "year": "2021",
+            "genre": {
+                "one": "Superhero",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "Black Widow",
+            "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "year": "2021",
+            "genre": {
+                "one": "Spy",
+                "two": "Action",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "Man of Steel",
+            "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+            "year": "2013",
+            "genre": {
+                "one": "Superhero",
+                "two": "Sci-Fi",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "The Dark Knight",
+            "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+            "year": "2008",
+            "genre": {
+                "one": "Action",
+                "two": "Thriller",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "Tenet",
+            "description": "Armed with only the word Tenet, and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+            "year": "2020",
+            "genre": {
+                "one": "Thriller",
+                "two": "Action",
+                "three": "Sci-Fi"
+            }
+        },
+        { 
+            "name": "The Count of Monte Cristo",
+            "description": "A young man, falsely imprisoned by his jealous friend, escapes and uses a hidden treasure to exact his revenge.",
+            "year": "2002",
+            "genre": {
+                "one": "Action",
+                "two": "Romance",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "The Princess Bride",
+            "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+            "year": "1987",
+            "genre": {
+                "one": "Adventure",
+                "two": "Comedy",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Shrek",
+            "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+            "year": "2001",
+            "genre": {
+                "one": "Animation",
+                "two": "Comedy",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "Murder On The Orient Express",
+            "description": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+            "year": "2017",
+            "genre": {
+                "one": "Mystery",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "Signs",
+            "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
+            "year": "2002",
+            "genre": {
+                "one": "Horror",
+                "two": "Mystery",
+                "three": "Sci-Fi"
+            }
+        },
+        { 
+            "name": "La La Land",
+            "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+            "year": "2016",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Comedy"
+            }
+        },
+        { 
+            "name": "Little Women",
+            "description": "19th century Massachusetts. While the March sisters - Jo, Meg, Amy, and Beth - enter the threshold of womanhood, they go through many ups and downs in life and endeavor to make important decisions that can affect their future.",
+            "year": "2019",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Drama",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Luca",
+            "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+            "year": "2021",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Family",
+                "three": "Animation"
+            }
+        },
+        { 
+            "name": "The Greatest Showman",
+            "description": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+            "year": "2017",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Biography"
+            }
+        }
+    ],
+    "2": [
+        { 
+            "name": "Shrek",
+            "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+            "year": "2001",
+            "genre": {
+                "one": "Animation",
+                "two": "Comedy",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "The Princess Bride",
+            "description": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+            "year": "1987",
+            "genre": {
+                "one": "Adventure",
+                "two": "Comedy",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "La La Land",
+            "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+            "year": "2016",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Comedy"
+            }
+        },
+        { 
+            "name": "Spiderman No Way Home",
+            "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When everything goes wrong, dangerous foes from other worlds start to appear.",
+            "year": "2021",
+            "genre": {
+                "one": "Superhero",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "Black Widow",
+            "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+            "year": "2021",
+            "genre": {
+                "one": "Spy",
+                "two": "Action",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "The Greatest Showman",
+            "description": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+            "year": "2017",
+            "genre": {
+                "one": "Musical",
+                "two": "Drama",
+                "three": "Biography"
+            }
+        },
+        { 
+            "name": "Luca",
+            "description": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+            "year": "2021",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Family",
+                "three": "Animation"
+            }
+        },
+        { 
+            "name": "Avengers Endgame",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "year": "2019",
+            "genre": {
+                "one": "Action",
+                "two": "Adventure",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "The Dark Knight",
+            "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+            "year": "2008",
+            "genre": {
+                "one": "Action",
+                "two": "Thriller",
+                "three": "Superhero"
+            }
+        },
+        { 
+            "name": "Man of Steel",
+            "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+            "year": "2013",
+            "genre": {
+                "one": "Superhero",
+                "two": "Sci-Fi",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "Murder On The Orient Express",
+            "description": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+            "year": "2017",
+            "genre": {
+                "one": "Mystery",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "Signs",
+            "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
+            "year": "2002",
+            "genre": {
+                "one": "Horror",
+                "two": "Mystery",
+                "three": "Sci-Fi"
+            }
+        },
+        { 
+            "name": "The Count of Monte Cristo",
+            "description": "A young man, falsely imprisoned by his jealous friend, escapes and uses a hidden treasure to exact his revenge.",
+            "year": "2002",
+            "genre": {
+                "one": "Action",
+                "two": "Romance",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "Little Women",
+            "description": "19th century Massachusetts. While the March sisters - Jo, Meg, Amy, and Beth - enter the threshold of womanhood, they go through many ups and downs in life and endeavor to make important decisions that can affect their future.",
+            "year": "2019",
+            "genre": {
+                "one": "Coming of Age",
+                "two": "Drama",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Tenet",
+            "description": "Armed with only the word Tenet, and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.",
+            "year": "2020",
+            "genre": {
+                "one": "Thriller",
+                "two": "Action",
+                "three": "Sci-Fi"
+            }
+        }
+    ]
+}
