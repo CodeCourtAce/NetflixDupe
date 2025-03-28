@@ -55,3 +55,7 @@ CodeCourtAce & John Paul D'Aconti
 ## Note
 
 We used stock footage due to copyright 😊
+
+## Images of Site 
+
+![alt text](image.png)
